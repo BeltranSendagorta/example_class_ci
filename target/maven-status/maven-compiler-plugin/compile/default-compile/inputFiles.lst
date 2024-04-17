@@ -1,8 +1,8 @@
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/UserData.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/jdo/User.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/Main.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/jdo/Message.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/DirectMessage.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/server/Resource.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/pojo/MessageData.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/main/java/es/deusto/spq/client/ExampleClient.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/server/jdo/User.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/server/jdo/Message.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/pojo/MessageData.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/server/Resource.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/server/Main.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/pojo/DirectMessage.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/pojo/UserData.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/main/java/es/deusto/spq/client/ExampleClient.java

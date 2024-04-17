@@ -1,11 +1,11 @@
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/pojo/DirectMessageTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/server/ResourceTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/categories/IntegrationTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/categories/PerformanceTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/client/ExampleClientTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/pojo/MessageDataTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/pojo/UserDataTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/server/jdo/UserTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/server/ServerIntegrationTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/server/ServerPerformanceTest.java
-/Users/beltranbeltran/Downloads/continuos-integration-example-2/src/test/java/es/deusto/spq/server/jdo/MessageTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/pojo/MessageDataTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/categories/PerformanceTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/server/jdo/UserTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/server/ServerIntegrationTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/client/ExampleClientTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/categories/IntegrationTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/pojo/DirectMessageTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/server/ResourceTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/server/ServerPerformanceTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/server/jdo/MessageTest.java
+/Users/beltranbeltran/Documents/Universidad/Tercero/Procesos de Software/example_class_ci/src/test/java/es/deusto/spq/pojo/UserDataTest.java
